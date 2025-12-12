@@ -88,7 +88,7 @@ interface HomeDocumentData {
    * Meta Title field in *Home*
    *
    * - **Field Type**: Text
-   * - **Placeholder**: A title of the page used for social media and search engines
+   * - **Placeholder**: Do Tran - Freelance Photographer & Videographer
    * - **API ID Path**: home.meta_title
    * - **Tab**: SEO & Metadata
    * - **Documentation**: https://prismic.io/docs/fields/text
@@ -99,7 +99,7 @@ interface HomeDocumentData {
    * Meta Description field in *Home*
    *
    * - **Field Type**: Text
-   * - **Placeholder**: A brief summary of the page
+   * - **Placeholder**: Hi I'm Do an independence photographer based in Vietnam
    * - **API ID Path**: home.meta_description
    * - **Tab**: SEO & Metadata
    * - **Documentation**: https://prismic.io/docs/fields/text

@@ -18,14 +18,14 @@
       "meta_title": {
         "config": {
           "label": "Meta Title",
-          "placeholder": "A title of the page used for social media and search engines"
+          "placeholder": "Do Tran - Freelance Photographer & Videographer"
         },
         "type": "Text"
       },
       "meta_description": {
         "config": {
           "label": "Meta Description",
-          "placeholder": "A brief summary of the page"
+          "placeholder": "Hi I'm Do an independence photographer based in Vietnam"
         },
         "type": "Text"
       },
